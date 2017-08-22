@@ -1,0 +1,26 @@
+{
+  "name": "spv-parser",
+  "version": "0.0.1",
+  "description": "Parser for the SPV format as provided by IBM SPSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labriola/spv-parser.git"
+  },
+  "keywords": [
+    "SPSS",
+    "SPV"
+  ],
+  "author": "Michael Labriola <labriola@digitalprimates.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/labriola/spv-parser/issues"
+  },
+  "homepage": "https://github.com/labriola/spv-parser#readme",
+  "dependencies": {
+    "binary-parser": "^1.1.6"
+  }
+}
